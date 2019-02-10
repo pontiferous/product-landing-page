@@ -1,0 +1,31 @@
+/***** GRID *****/
+header{
+  display: flex;
+  list-style-type:
+}
+
+ul {
+  list-style-type: none;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  float: left;
+  padding: 14px 16px;
+}
+
+p {
+  font-size: 16px;
+}
+
+/**Tablet**/
+@media only screen and (max-width: 768px){
+
+}
+/**desktop**/
+@media only screen and (max-width: 1200px) {
+
+}
