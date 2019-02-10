@@ -1,7 +1,6 @@
 /***** GRID *****/
 header{
   display: flex;
-  list-style-type:
 }
 
 ul {
@@ -23,7 +22,11 @@ p {
 
 /**Tablet**/
 @media only screen and (max-width: 768px){
-
+  li{
+    display: flexbox;
+    flex-direction: column;
+    padding: 14px 16px;
+  }
 }
 /**desktop**/
 @media only screen and (max-width: 1200px) {
