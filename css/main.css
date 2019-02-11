@@ -6,7 +6,6 @@ header{
 
 ul{
   list-style-type: none;
-  position: fixed;
   margin: 0;
   padding: 0;
 }
@@ -25,6 +24,12 @@ p {
 
 main {
   padding-top: 100px;
+}
+
+.video{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /**Tablet**/
